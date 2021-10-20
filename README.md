@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/marcelo-jrs/Order-summary-component-challenge-hub)
+- Solution URL: [](https://marcelo-jrs.github.io/Order-summary-component-challenge-hub/)
 
 ## My process
 
